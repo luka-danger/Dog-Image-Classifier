@@ -26,8 +26,8 @@ All uploaded images were free images from Unsplash.com
 <br>
 
 # Screenshots
-![Running-Program](/intropyproject-classify-pet-images/screenshots/running-program.png)
+![Running-Program](Screenshots/running_program.png)
 
 <br>
 
-![Results](/intropyproject-classify-pet-images/screenshots/results.png)
+![Results](Screenshots/results.png)
